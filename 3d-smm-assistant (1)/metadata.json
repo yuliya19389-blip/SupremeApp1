@@ -1,0 +1,5 @@
+{
+  "name": "3D SMM Assistant",
+  "description": "A comprehensive AI-powered dashboard for 3D artists to track trends, generate copy, and analyze competitors using Google Gemini.",
+  "requestFramePermissions": []
+}
